@@ -47,7 +47,6 @@ Support vector classifier test score is:  0.6224289911851126
 Accuracy score for train data is: 0.6239109898184109
 Support vector classifier train score is:  0.6239109898184109
 ---------------------------------------------------------------------------------
-[13:29:22] WARNING: ..\src\learner.cc:1115: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
 Accuracy score for test data is: 0.9248285994123409
 XGBClassifier test score is:  0.9248285994123409
 Accuracy score for train data is: 1.0
